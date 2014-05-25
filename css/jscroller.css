@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* Scroller Box */
+#scroller_container {
+ position: relative;
+ width: 100%;
+ height: 40px;
+ overflow: hidden;
+}
+
+#scroller {
+ white-space: nowrap;
+ line-height: 40px;
+ height:40px;
+ font-size: 14px;
+}
+
+
+#scroller a {
+	font-size:14px;
+	color:#464646;
+}
+
+#scroller a:hover {
+	color:#9500E2;
+}
+/* Scoller Box */
+

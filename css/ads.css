@@ -1,0 +1,59 @@
+#ads .jcarousel-skin-tango .jcarousel-container {
+    background: #fff;
+
+}
+
+#ads .jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+#ads .jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 345px;
+    padding: 0;
+}
+
+
+
+#ads .jcarousel-skin-tango .jcarousel-clip {
+    overflow: hidden;
+}
+
+#ads .jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width: 345px;
+    height: 115px;
+}
+
+
+#ads .jcarousel-skin-tango .jcarousel-item , 
+#ads .jcarousel-skin-tango .jcarousel-item img{
+    width: 345px;
+    height: 115px;
+}
+
+#ads .jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 0;
+}
+
+#ads .jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 0;
+}
+
+
+
+#ads .jcarousel-skin-tango .jcarousel-item-placeholder {
+	display:none;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+
+#ads .jcarousel-skin-tango .jcarousel-next ,
+#ads .jcarousel-skin-tango .jcarousel-prev {
+	display:none;
+}
+
+
+
